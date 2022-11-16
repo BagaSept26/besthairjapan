@@ -4,6 +4,7 @@ import { heroData } from '../pages/data';
 // import components
 import Header from './Header';
 
+
 // import motion
 import { motion } from 'framer-motion';
 import { FaWhatsapp } from "react-icons/fa";
@@ -21,7 +22,7 @@ const Hero = () => {
 	}, [inView]);
   const { pretitle, title, subtitle, btnText } = heroData;
   return (
-    <section className='min-h-[980px] bg-hero bg-cover bg-center'>
+    <section className='min-h-[980px]'>
       {/* header */}
       <Header />
       <div className='container mx-auto min-h-[980px] flex justify-center items-center'>

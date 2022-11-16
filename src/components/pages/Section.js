@@ -16,9 +16,9 @@ const Section = () => {
 
   return (
 
-    <section className='bg-pattern bg-cover min-h-[620px]'>
+    <section className=' min-h-[620px] bg-pattern bg-cover'>
 
-    <div className='container mx-auto min-h-[620px] '>
+    <div className='container  mx-auto min-h-[620px] '>
       
       <motion.div 
       variants={staggerContainer} 

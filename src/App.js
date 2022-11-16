@@ -17,7 +17,7 @@ import C1 from './components/pages/C1';
 function App() {
   return (
     <div className='h-full bg-about bg-repeat max-w-[1800px] mx-auto overflow-hidden'>
-      <Hero/>
+      <section className='bg-hero bg-cover bg-fixed'><Hero/></section>
       <Section1/>
       <Service1/>
       <Section/>
