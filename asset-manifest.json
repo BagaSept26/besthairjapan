@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/besthairjapan/static/css/main.5bae170a.css",
-    "main.js": "/besthairjapan/static/js/main.49ee1553.js",
+    "main.css": "/besthairjapan/static/css/main.715bafd0.css",
+    "main.js": "/besthairjapan/static/js/main.76e31b93.js",
     "static/media/case3.png": "/besthairjapan/static/media/case3.020ea25083db3ded8ac6.png",
     "static/media/case4.png": "/besthairjapan/static/media/case4.d4a7f65a2c77da822b55.png",
     "static/media/case5.png": "/besthairjapan/static/media/case5.8f86f9a2ad728b85c0cc.png",
@@ -39,11 +39,11 @@
     "static/media/question-mark.svg": "/besthairjapan/static/media/question-mark.fa73edbd46a5cfd7ffc58b852e479401.svg",
     "index.html": "/besthairjapan/index.html",
     "static/media/cd-arrows.svg": "/besthairjapan/static/media/cd-arrows.41f46c1747077109ee31.svg",
-    "main.5bae170a.css.map": "/besthairjapan/static/css/main.5bae170a.css.map",
-    "main.49ee1553.js.map": "/besthairjapan/static/js/main.49ee1553.js.map"
+    "main.715bafd0.css.map": "/besthairjapan/static/css/main.715bafd0.css.map",
+    "main.76e31b93.js.map": "/besthairjapan/static/js/main.76e31b93.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bae170a.css",
-    "static/js/main.49ee1553.js"
+    "static/css/main.715bafd0.css",
+    "static/js/main.76e31b93.js"
   ]
 }
